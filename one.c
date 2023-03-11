@@ -1,4 +1,6 @@
 #include<stdio.h>
 void main(){
-    printf("hi")
+    int a=10,int b=20
+    printf("%d",a+b);
+    printf("hi");
 }
